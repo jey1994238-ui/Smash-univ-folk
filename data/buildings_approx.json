@@ -1,0 +1,99 @@
+{
+  "_note": "Chongshin Yangji campus has no building outlines in OpenStreetMap. These footprints are APPROXIMATE placements (not surveyed) of buildings known to exist, laid out along the campus roads. x east / z south in metres from the campus origin below. a = rotation of the long side in degrees (clockwise from east). Replace with real OSM building ways when they exist.",
+  "origin": [
+    37.24701,
+    127.29915
+  ],
+  "buildings": [
+    {
+      "n": "100주년기념예배당",
+      "x": 118,
+      "z": 38,
+      "w": 48,
+      "d": 30,
+      "a": 51,
+      "lv": 4
+    },
+    {
+      "n": "박형룡박사기념도서관",
+      "x": 37,
+      "z": -69,
+      "w": 46,
+      "d": 24,
+      "a": 51,
+      "lv": 4
+    },
+    {
+      "n": "본관",
+      "x": 9,
+      "z": -112,
+      "w": 44,
+      "d": 18,
+      "a": 51,
+      "lv": 5
+    },
+    {
+      "n": "강의동 A",
+      "x": -37,
+      "z": -38,
+      "w": 36,
+      "d": 16,
+      "a": 51,
+      "lv": 5
+    },
+    {
+      "n": "강의동 B",
+      "x": 70,
+      "z": -120,
+      "w": 34,
+      "d": 16,
+      "a": 51,
+      "lv": 5
+    },
+    {
+      "n": "복지관",
+      "x": 129,
+      "z": 89,
+      "w": 34,
+      "d": 18,
+      "a": 51,
+      "lv": 3
+    },
+    {
+      "n": "제1생활관",
+      "x": -102,
+      "z": -124,
+      "w": 38,
+      "d": 14,
+      "a": 51,
+      "lv": 6
+    },
+    {
+      "n": "제2생활관",
+      "x": -121,
+      "z": -54,
+      "w": 38,
+      "d": 14,
+      "a": 51,
+      "lv": 6
+    },
+    {
+      "n": "제3생활관",
+      "x": -53,
+      "z": -164,
+      "w": 40,
+      "d": 15,
+      "a": 51,
+      "lv": 6
+    },
+    {
+      "n": "소래교회당",
+      "x": 44,
+      "z": 190,
+      "w": 14,
+      "d": 9,
+      "a": 51,
+      "lv": 1
+    }
+  ]
+}
