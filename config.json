@@ -1,0 +1,14 @@
+{
+  "code": "CHONGSHIN",
+  "title": "SMASH 총신",
+  "school": "총신대",
+  "fullName": "총신대학교 신학대학원",
+  "campusName": "총신대학교 신학대학원 양지캠퍼스",
+  "tagline": "총신대 양지캠퍼스를 부셔",
+  "description": "총신대학교 신학대학원 양지캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 총신대학교 신학대학원 양지캠퍼스 3D 화면과 SMASH 총신 제목",
+  "url": "https://jey1994238-ui.github.io/smash-univ-folk/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": { "type": "relation", "id": null },
+  "styles": {}
+}
