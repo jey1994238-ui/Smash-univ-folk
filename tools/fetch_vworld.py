@@ -8,7 +8,7 @@ import json, os, sys, urllib.parse, urllib.request
 
 KEY = os.environ.get("VWORLD_KEY")
 if not KEY: sys.exit("set VWORLD_KEY (VWorld 오픈API 인증키)")
-DOMAIN = os.environ.get("VWORLD_DOMAIN", "localhost")        # must match the service URL registered for the key
+DOMAIN = os.environ.get("VWORLD_DOMAIN", "https://jey1994238-ui.github.io")   # must match the service URL registered for the key
 S, W, N, E = (map(float, sys.argv[1:5]) if len(sys.argv) >= 5 else (37.2442, 127.2955, 37.2499, 127.3028))
 LAYER = os.environ.get("VWORLD_LAYER", "LT_C_SPBD")           # 도로명주소 건물
 NAME_KEYS = ("buld_nm", "bld_nm", "bldnm", "buld_nm_dc", "name")
